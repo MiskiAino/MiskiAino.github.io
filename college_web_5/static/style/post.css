@@ -1,0 +1,14 @@
+.blog-main{
+  background: #f8f9fa;
+  padding-bottom: 20px;
+}
+.blog-main img{
+  max-width: 100%;
+}
+@media only screen and (max-width : 480px) {
+  .blog-main{
+    margin-top: 70px;
+  }
+}
+
+/*  */
